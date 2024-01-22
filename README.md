@@ -1,16 +1,22 @@
-### Hi there I'm Amol Kerkar 👋
+# Amol Kerkar - AI Enthusiast
+![Profile Icon](path/to/your/repo/profile_icon.png)
+## 👋 About Me
 
-<!--
-**amolkerkar/amolkerkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate AI enthusiast on the lookout for exciting opportunities in the dynamic fields of Data Science, Machine Learning, and Computer Vision. My fervor for cutting-edge technology and my drive to make meaningful innovations in these domains fuel my quest for the perfect opportunity to unleash my potential.
+ 
+## 📊 GitHub Stats
 
-Here are some ideas to get you started:
+![Amol's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amolkerkar&show_icons=true&hide_title=true&count_private=true&hide=issues,contribs)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Here's my Personal portfolio
+[![Personal]()](https://amolkerkar.github.io)
+
+## 🤖 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/amolkerkar/)
+[![Gmail](https://img.shields.io/badge/Gmail-Connect-red)](mailto:amolkerkar2@gmail.com)
+
+
+
+
+
