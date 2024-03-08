@@ -1,5 +1,4 @@
 # Amol Kerkar - AI Enthusiast
-![Profile Icon](path/to/your/repo/profile_icon.png)
 ## 👋 About Me
 
 I am a passionate AI enthusiast on the lookout for exciting opportunities in the dynamic fields of Data Science, Machine Learning, and Computer Vision. My fervor for cutting-edge technology and my drive to make meaningful innovations in these domains fuel my quest for the perfect opportunity to unleash my potential.
