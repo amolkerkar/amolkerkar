@@ -8,7 +8,7 @@ I am a passionate AI enthusiast on the lookout for exciting opportunities in the
 ![Amol's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amolkerkar&show_icons=true&hide_title=true&count_private=true&hide=issues,contribs)
 
 ## Here's my Personal portfolio
-[![Personal]()](https://amolkerkar.github.io)
+[![Website]()](https://amolkerkar.github.io)
 
 ## 🤖 Let's Connect
 
