@@ -1,14 +1,13 @@
-# Amol Kerkar - AI Enthusiast
+# Amol Kerkar - Computer Science
 ## 👋 About Me
 
 I am a passionate AI enthusiast on the lookout for exciting opportunities in the dynamic fields of Software development, Machine Learning, and Computer Vision. My fervor for cutting-edge technology and my drive to make meaningful innovations in these domains fuel my quest for the perfect opportunity to unleash my potential.
- 
-## 📊 GitHub Stats
-
-![Amol's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amolkerkar&show_icons=true&hide_title=true&count_private=true&hide=issues,contribs)
 
 ## Here's my Personal portfolio
-[![Website]()](https://amolkerkar.github.io)
+<a href="https://amolkerkar.github.io">
+  <img src="https://github.com/user-attachments/assets/5272ea3f-ad37-4da8-be6e-19c8a577b852" width="200" height="200" />
+</a>
+
 
 ## 🤖 Let's Connect
 
